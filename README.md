@@ -7,7 +7,7 @@
 - [Explication et difficulté](#Explication)
 - [Auteur](#Auteur)
 
-# ESXi Automation Scripts
+# les scrips de gestion d'un ESXi 
 
 Scripts Python pour l'automatisation des tâches VMware ESXi utilisant PyVmomi.
 FOTSO NANA
